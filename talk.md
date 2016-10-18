@@ -461,3 +461,5 @@ $$Ax = x\lambda$$
 ### Documentation
 
 * http://www.numpy.org
+* https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+* http://www.scipy-lectures.org/intro/numpy/index.html
