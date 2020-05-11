@@ -11,6 +11,18 @@ Computational Python
 
 layout: false
 
+---
+
+### To do
+
+* np.split
+* np.concatenate
+* np.loadtxt
+* np.savetxt
+* np.numexpr
+
+---
+
 ### Linear Algebra in Python: NumPy
 
 * Libraries provided by ``numpy`` provide computational speeds close to compiled languages
